@@ -35,3 +35,4 @@ fun isPalindrome(word:String):Boolean{
 
 
 
+g
